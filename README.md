@@ -39,8 +39,7 @@ python main.py
 
 ## Output
 
-
-(graph.png)
+![Tesla Graph](graph.png)
 
 ##  Learnings
 
