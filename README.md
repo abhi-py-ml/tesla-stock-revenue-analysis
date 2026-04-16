@@ -40,7 +40,7 @@ python main.py
 ## Output
 
 
-
+(graph.png)
 
 ##  Learnings
 
