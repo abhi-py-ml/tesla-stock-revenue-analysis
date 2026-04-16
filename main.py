@@ -54,5 +54,6 @@ if html_data.status_code==200:
         axes[1].set_title(f"{stock} - Historical Revenue")
 
         plt.tight_layout()
+        plt.savefig("graph.png") #Savves image
         plt.show()
     make_graph(tesla_data,tesla_revenue,'Tesla')
